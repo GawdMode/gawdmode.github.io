@@ -1,7 +1,7 @@
 [
   {
     "name": "PokeSurvive",
-    "game": "Pok\u00e9mon Red / Gold / Crystal",
+    "game": "Pokémon Red / Gold / Crystal",
     "status": "Released",
     "description": "A survival roguelike overhaul with randomized runs, survival meters, moods, camping, permadeath options, Adventure Events, and more.",
     "tags": [
@@ -9,69 +9,69 @@
       "Randomizer",
       "Roguelike"
     ],
-    "image": "assets/pokesurvive.png",
+    "image": "assets/pokesurvivegithubthumb.png",
     "repo": "https://github.com/GawdMode/PokeSurvive",
     "release": "https://github.com/GawdMode/PokeSurvive/releases/latest"
   },
   {
     "name": "Angler's Cove Aquarium",
-    "game": "Pok\u00e9mon Crystal",
+    "game": "Pokémon Crystal",
     "status": "Released",
-    "description": "A fishing and aquarium expansion. Catch aquatic Pok\u00e9mon, raise them in a living tank, care for them, and show off unusual catches.",
+    "description": "A fishing and aquarium expansion. Catch aquatic Pokémon, raise them in a living tank, care for them, and show off unusual catches.",
     "tags": [
       "Fishing",
       "Aquarium",
       "Collection"
     ],
-    "image": "assets/anglers-cove.png",
+    "image": "assets/anglerscovegithubthumb.png",
     "repo": "https://github.com/GawdMode/anglers-cove-aquarium",
     "release": "https://github.com/GawdMode/anglers-cove-aquarium/releases/latest"
   },
   {
     "name": "Safari Derby",
-    "game": "Pok\u00e9mon Crystal",
+    "game": "Pokémon Crystal",
     "status": "Released",
-    "description": "Transforms Fuchsia City's Safari Zone into a Pok\u00e9mon racing and wagering side activity with player-entered racers and spectator events.",
+    "description": "Transforms Fuchsia City's Safari Zone into a Pokémon racing and wagering side activity with player-entered racers and spectator events.",
     "tags": [
       "Racing",
       "Wagering",
       "Minigame"
     ],
-    "image": "assets/safari-derby.png",
+    "image": "assets/safariderbygithubthumb.png",
     "repo": "https://github.com/GawdMode/Safari-Derby",
     "release": "https://github.com/GawdMode/Safari-Derby/releases/latest"
   },
   {
     "name": "Mutant Monster Lab",
-    "game": "Pok\u00e9mon Crystal",
+    "game": "Pokémon Crystal",
     "status": "Released",
-    "description": "Restore a deeply questionable Cinnabar research facility and splice Pok\u00e9mon together while managing increasingly unstable mutations.",
+    "description": "Restore a deeply questionable Cinnabar research facility and splice Pokémon together while managing increasingly unstable mutations.",
     "tags": [
       "Splicing",
       "Mutations",
       "Cinnabar"
     ],
-    "image": "assets/mutant-monster-lab.png",
+    "image": "assets/mutantmonsterlabgithubthumb.png",
     "repo": "https://github.com/GawdMode/Mutant-Monster-Lab",
     "release": "https://github.com/GawdMode/Mutant-Monster-Lab/releases/latest"
   },
   {
     "name": "Battle Factory Remix",
-    "game": "Pok\u00e9mon Crystal",
+    "game": "Pokémon Crystal",
     "status": "Released",
-    "description": "A Battle Factory expansion built around rental teams, battle streaks, swapping Pok\u00e9mon after wins, and special rewards.",
+    "description": "A Battle Factory expansion built around rental teams, battle streaks, swapping Pokémon after wins, and special rewards.",
     "tags": [
       "Battle Factory",
       "Rentals",
       "Challenge"
     ],
-    "image": "assets/battle-factory-remix.png",
+    "image": "assets/battlefactoryremixgithubthumb.png",
     "repo": "https://github.com/GawdMode/Battle-Factory-Remix",
     "release": "https://github.com/GawdMode/Battle-Factory-Remix/releases/latest"
   },
   {
     "name": "Spirit Wardens",
-    "game": "Pok\u00e9mon Crystal",
+    "game": "Pokémon Crystal",
     "status": "Coming Soon",
     "description": "A paranormal investigation expansion built around hauntings, evidence, cursed objects, escalating activity, and surviving what you uncover.",
     "tags": [
@@ -79,7 +79,7 @@
       "Investigation",
       "Lavender"
     ],
-    "image": "assets/spirit-wardens.png",
+    "image": "assets/spiritwardensgithubthumb.png",
     "repo": "",
     "release": ""
   }
