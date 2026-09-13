@@ -70,17 +70,17 @@
     "release": "https://github.com/GawdMode/Battle-Factory-Remix/releases/latest"
   },
   {
-    "name": "PhasmoPokéa",
-    "game": "Pokémon Crystal",
-    "status": "Coming Soon",
-    "description": "A paranormal investigation expansion built around hauntings, evidence, cursed objects, escalating activity, and surviving what you uncover.",
-    "tags": [
-      "Horror",
-      "Investigation",
-      "Lavender"
-    ],
-    "image": "assets/spiritwardensgithubthumb.png",
-    "repo": "https://github.com/GawdMode/PhasmoPokea",
-    "release": "https://github.com/GawdMode/PhasmoPokea/releases/latest"
-  }
+  "name": "PhasmoPokéa",
+  "game": "Pokémon Crystal",
+  "status": "Released",
+  "description": "Track an invisible spirit, gather clues, identify the haunting Pokémon, locate the object binding it to the area, and perform a successful cleansing before the investigation turns deadly.",
+  "tags": [
+    "Ghost Hunting",
+    "Investigation",
+    "Hauntings"
+  ],
+  "image": "assets/spiritwardensgithubthumb.png",
+  "repo": "https://github.com/GawdMode/PhasmoPokea",
+  "release": "https://github.com/GawdMode/PhasmoPokea/releases/latest"
+}
 ]
