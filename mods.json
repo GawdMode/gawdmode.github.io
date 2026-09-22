@@ -82,5 +82,19 @@
   "image": "assets/spiritwardensgithubthumb.png",
   "repo": "https://github.com/GawdMode/PhasmoPokea",
   "release": "https://github.com/GawdMode/PhasmoPokea/releases/latest"
+},
+  {
+  "name": "Viridian Vivarium",
+  "game": "Pokémon Crystal",
+  "status": "Released",
+  "description": "Hunt for Pokémon with the Field Net, donate specimens toward conservation goals, grow berries and fungi, care for residents in the Vivarium, unlock new shop stock, and eventually raise special Prime Pokémon.",
+  "tags": [
+    "Bug Catching",
+    "Terrarium",
+    "Collection"
+  ],
+  "image": "assets/VirVivgithubthumb.png",
+  "repo": "https://github.com/GawdMode/PhasmoPokea",
+  "release": "https://github.com/GawdMode/PhasmoPokea/releases/latest"
 }
 ]
