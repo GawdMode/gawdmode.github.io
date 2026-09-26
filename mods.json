@@ -97,4 +97,18 @@
   "repo": "https://github.com/GawdMode/Viridian-Vivarium",
   "release": "https://github.com/GawdMode/Viridian-Vivarium/releases/latest"
 }
+   {
+  "name": "Dungeon Delvers",
+  "game": "Pokémon Crystal",
+  "status": "Released",
+  "description": "Delve into roguelike dungeons in single player or online co-op, fend off trainers, mine stones and fossils, face bosses, and rebuild Pewter Museum's fossil display.",
+  "tags": [
+    "Online Co-op",
+    "Mystery Dungeon",
+    "Fossil Collecting"
+  ],
+  "image": "assets/DDgithubthumb.png",
+  "repo": "https://github.com/GawdMode/Dungeon-Delvers",
+  "release": "https://github.com/GawdMode/Dungeon-Delvers/releases/latest"
+}
 ]
