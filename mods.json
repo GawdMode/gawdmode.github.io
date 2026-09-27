@@ -110,5 +110,19 @@
   "image": "assets/DDgithubthumb.png",
   "repo": "https://github.com/GawdMode/Dungeon-Delvers",
   "release": "https://github.com/GawdMode/Dungeon-Delvers/releases/latest"
+},
+  {
+  "name": "Neo Nursery",
+  "game": "Pokémon Crystal",
+  "status": "Released",
+  "description": "Raise, care for, and adopt Baby Pokémon in a virtual pet-style nursery built into the Johto Day Care.",
+  "tags": [
+    "Virtual Pet",
+    "Baby",
+    "Raising Sim"
+  ],
+  "image": "assets/neonursery.jpg",
+  "repo": "https://github.com/GawdMode/Neo-Nursery",
+  "release": "https://github.com/GawdMode/Neo-Nursery/releases/latest"
 }
 ]
